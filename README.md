@@ -46,7 +46,7 @@
 
 
 
-<table width="98%"><tr><td valign="top" width="98%" align="center">  
+<table width="98%" style="margin-left:auto; margin-right:auto "><tr><td valign="top" width="100%" align="center">  
 
 ### Tools  
 <div align="center">  
