@@ -1,6 +1,11 @@
-## [Hello,I am Seemol Chakroborti]()
+
+
+ ### <div align="center">Hello ,I am Seemol Chakroborti</div>  
+
+ <div align="center">
+<img src="https://deendarpartner.com/psilrimt/2023/06/Hasib-imam-hridoy.jpg" align="center" style="width: 100%" />
+</div>  
 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=hello+I+am+Seemol+chakkroborti;I+know+javascript+;javascript+library+react;javascript+Framework+nextjs;backend+express+js+with+mongodb)](https://git.io/typing-svg)
-
