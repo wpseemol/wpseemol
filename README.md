@@ -20,7 +20,7 @@
 
 
  #### <div align="center">Seeking for a Developer??</div>
- <div align="center"> A full-time front-end developer 👨‍💻</div>  
+ ### <div align="center"> A full-time front-end developer 👨‍💻</div>  
  <hr/>
 
   I'm Seemol Chakroborti, a passionate React and Express front-end developer. With a dedicated focus on web development, I have been actively refining my skills over the past several months.My expertise lies in crafting dynamic and responsive user interfaces using React.js for front-end development.
