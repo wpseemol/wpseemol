@@ -68,6 +68,17 @@
 
 
 
+<h3 align="center">Github Stats</h3>
+
+<table width="98%" align="center"><tr><td valign="top" width="100%">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wpseemol&theme=dark)
+
+</td>
+</tr></table>
+
+
+
 
 
 
