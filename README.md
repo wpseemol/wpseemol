@@ -54,9 +54,20 @@
 </td></tr></table>
 
 
+<table width="98%" align="center"><tr><td valign="top" width="50%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wpseemol&theme=dark)
 
+</td>
+<td valign="top" width="50%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wpseemol&theme=dark)
+
+</td>
+</tr></table>
+
+
+
+
+
 
