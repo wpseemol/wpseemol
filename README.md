@@ -34,28 +34,21 @@
 <a href="https://www.instagram.com/wpseemol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/wpseemol/wpseemol/0e65f752f8f9b173b4d67de290c50fca446beeb2/icon/instagram.svg" alt="wpseemol" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19847121/wpseemol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/wpseemol/wpseemol/0e65f752f8f9b173b4d67de290c50fca446beeb2/icon/stackOverfle.svg" alt="wpseemol" height="30" width="40" /></a>
 </p>
-<hr/>
 
 
 
 
 
 
-
-
-
-
-
-<table width="98%" style="margin-left:auto; margin-right:auto "><tr><td valign="top" width="100%" align="center">  
-
-### Tools  
+<table width="98%" style="margin-left:auto; margin-right:auto " align="center"><tr><td valign="top" width="100%">  
+<h3><u>Tools :</u></h3>  
 <div align="center">  
-<a href="https://github.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/git.svg" alt="Git" height="50"  /></a>
-<a href="https://vercel.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/vercel.svg" alt="vercel" height="50" width="110" /></a>
-<a href="https://netlify.app/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://github.com/wpseemol/wpseemol/blob/main/icon/netlify-logo.png?raw=true" alt="netlify" height="50" /></a>
-<a href="https://canva.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/canva.svg" alt="Canva" height="50" /></a>  
-<a href="https://www.figma.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/figma.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 20px" target="_blank"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/photoshop.svg" alt="Figma" height="50" /></a>  
+<a href="https://github.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/git.svg" alt="Git" height="50"  /></a> 
+<a href="https://vercel.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/vercel.svg" alt="vercel" height="50" width="110" /></a> 
+<a href="https://netlify.app/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://github.com/wpseemol/wpseemol/blob/main/icon/netlify-logo.png?raw=true" alt="netlify" height="50" /></a> 
+<a href="https://canva.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/canva.svg" alt="Canva" height="50" /></a>   
+<a href="https://www.figma.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/figma.svg" alt="Figma" height="50" /></a>   
+<a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 20px" target="_blank"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/photoshop.svg" alt="Figma" height="50" /></a>   
 </div>
 
 </td></tr></table>
