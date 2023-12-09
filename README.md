@@ -55,5 +55,5 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wpseemol&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wpseemol&theme=dark)
 
