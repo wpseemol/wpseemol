@@ -41,7 +41,7 @@
 
 
 <table width="98%" style="margin-left:auto; margin-right:auto " align="center"><tr><td valign="top" width="100%">  
-<h3><u>Tools :</u></h3>  
+<h3 align="center"><u>Tools :</u></h3>  
 <div align="center">  
 <a href="https://github.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/git.svg" alt="Git" height="50"  /></a> 
 <a href="https://vercel.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/vercel.svg" alt="vercel" height="50" width="110" /></a> 
@@ -52,4 +52,8 @@
 </div>
 
 </td></tr></table>
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wpseemol&theme=default)
 
