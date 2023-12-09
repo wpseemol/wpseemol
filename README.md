@@ -53,8 +53,9 @@
 
 </td></tr></table>
 
+<hr/>
 
-<table width="98%" align="center"><tr><td valign="top" width="50%">
+<table width="100%" align="center"><tr><td valign="top" width="50%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wpseemol&theme=dark)
 
@@ -70,12 +71,40 @@
 
 <h3 align="center">Github Stats</h3>
 
-<table width="98%" align="center"><tr><td valign="top" width="100%">
+<table width="100%" align="center"><tr><td valign="top" width="100%">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wpseemol&theme=dark)
 
 </td>
 </tr></table>
+
+
+## Projects
+
+## contestHub Full Stack Website
+#### ✔ [contestHub Dashbord with Mern stack or Fascinating design ](https://superlative-boba-1e1ca5.netlify.app)
+**contestHub Github:**
+#### front-end [https://github.com/wpseemol/Seemol-Chakrobrti/tree/main/assignment/assignment-12/ContestHub/](https://github.com/wpseemol/Seemol-Chakrobrti/tree/main/assignment/assignment-12/ContestHub)
+#### back-end [https://github.com/wpseemol/Seemol-Chakrobrti/tree/main/assignment/assignment-12/ContestHub-server](https://github.com/wpseemol/Seemol-Chakrobrti/tree/main/assignment/assignment-12/ContestHub-server)
+#### Admin-Email admin@wpseemol.com
+#### Admin-Pass Seemoladmin_1234 
+
+
+## bestBrand
+#### ✔ [Awesome design with 300% responsive](https://heroverse.netlify.app/)
+**Kitchen-House Github:**
+#### front-end [https://bestbrand-9f85c.web.app/](https://bestbrand-9f85c.web.app/)
+#### back-end [https://best-brand-server.vercel.app/](https://best-brand-server.vercel.app/)
+
+
+
+## Kitchen-House
+#### ✔ [Kitchen-House Fascinating design wait jwt Verification](https://capable-faloodeh-7aef99.netlify.app/)
+**Kitchen-House Github:**
+#### front-end [https://github.com/wpseemol/Seemol-Chakrobrti/tree/main/assignment/assignment-11/kitchen-house](https://github.com/wpseemol/Seemol-Chakrobrti/tree/main/assignment/assignment-11/kitchen-house/)
+#### back-end [https://github.com/wpseemol/Seemol-Chakrobrti/tree/main/assignment/assignment-11/kitchen-house-server](https://github.com/wpseemol/Seemol-Chakrobrti/tree/main/assignment/assignment-11/kitchen-house-server)
+
+
 
 
 
