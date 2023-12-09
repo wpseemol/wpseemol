@@ -50,12 +50,12 @@
 
 ### Tools  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/git.svg" alt="Git" height="50" /></a>
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/vercel.svg" alt="vercel" height="50" width="110" /></a>
-<a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="https://github.com/wpseemol/wpseemol/blob/main/icon/netlify-logo.png?raw=true" alt="netlify" height="50" /></a>
-<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/canva.svg" alt="Canva" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/figma.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/photoshop.svg" alt="Figma" height="50" /></a>  
+<a href="https://github.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/git.svg" alt="Git" height="50"  /></a>
+<a href="https://vercel.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/vercel.svg" alt="vercel" height="50" width="110" /></a>
+<a href="https://netlify.app/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://github.com/wpseemol/wpseemol/blob/main/icon/netlify-logo.png?raw=true" alt="netlify" height="50" /></a>
+<a href="https://canva.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/canva.svg" alt="Canva" height="50" /></a>  
+<a href="https://www.figma.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/figma.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/photoshop.svg" alt="Figma" height="50" /></a>  
 </div>
 
 </td></tr></table>
