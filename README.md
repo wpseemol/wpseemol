@@ -51,10 +51,11 @@
 ### Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/git.svg" alt="Git" height="50" /></a>
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/vercel.svg" alt="vercel" height="50" width="80" /></a>
-<a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netlify_logo_icon_169924.png" alt="netlify" height="50" /></a>
-<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/vercel.svg" alt="vercel" height="50" width="110" /></a>
+<a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="https://github.com/wpseemol/wpseemol/blob/main/icon/netlify-logo.png?raw=true" alt="netlify" height="50" /></a>
+<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/canva.svg" alt="Canva" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/figma.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/photoshop.svg" alt="Figma" height="50" /></a>  
 </div>
 
 </td></tr></table>
