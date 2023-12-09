@@ -44,9 +44,9 @@
 
 
 
-</td><td valign="top" width="33%">
 
-<table><tr><td valign="top" width="98%" align="center">  
+
+<table width="98%"><tr><td valign="top" width="98%" align="center">  
 
 ### Tools  
 <div align="center">  
@@ -55,7 +55,7 @@
 <a href="https://netlify.app/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://github.com/wpseemol/wpseemol/blob/main/icon/netlify-logo.png?raw=true" alt="netlify" height="50" /></a>
 <a href="https://canva.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/canva.svg" alt="Canva" height="50" /></a>  
 <a href="https://www.figma.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/figma.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/photoshop.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 20px" target="_blank"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/photoshop.svg" alt="Figma" height="50" /></a>  
 </div>
 
 </td></tr></table>
