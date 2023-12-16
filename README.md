@@ -91,7 +91,7 @@
 
 
 ## bestBrand
-#### ✔ [Awesome design with 300% responsive](https://heroverse.netlify.app/)
+#### ✔ [Awesome design with 100% responsive](https://heroverse.netlify.app/)
 **Kitchen-House Github:**
 #### front-end [https://github.com/wpseemol/bestBrand/tree/main/bestBrand](https://github.com/wpseemol/bestBrand/tree/main/bestBrand)
 #### back-end [https://github.com/wpseemol/bestBrand/tree/main/bestBrand-server](https://github.com/wpseemol/bestBrand/tree/main/bestBrand-server)
