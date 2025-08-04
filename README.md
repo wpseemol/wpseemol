@@ -1,7 +1,7 @@
 ### <div align="center">Hello ,I am Seemol Chakroborti</div>
 
  <div align="center">
-<img src="./imagess/wpseemol cover pictures.png" align="center" style="width: 100%" alt="wpseemol cover" />
+<img src="./imagess/wpseemol-cover-pictures.jpg" align="center" style="width: 100%" alt="wpseemol cover" />
 </div>
 
 <hr/>
