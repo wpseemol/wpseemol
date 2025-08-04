@@ -1,109 +1,141 @@
-### <div align="center">Hello ,I am Seemol Chakroborti</div>
+```md
+# 🌐 Personal Portfolio Website — Seemol Chakroborti (wpseemol)
 
- <div align="center">
-<img src="./imagess/wpseemol-cover-pictures.jpg" align="center" style="width: 100%" alt="wpseemol cover" />
-</div>
+Welcome to my modern and professional personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
+This project reflects my journey, skills, creativity, and dedication as a passionate web developer.
 
-<hr/>
-<br/>
+---
 
-#### <div align="center">Seeking for a Developer??</div>
+## 👤 About Me
 
-### <div align="center"> A full-time front-end developer 👨‍💻</div>
+Hi! I’m **Seemol Chakroborti**, also known as **wpseemol** or **Web Programmer Seemol**.  
+I’m deeply passionate about front-end technologies, and I love creating responsive websites, creative tools, and mini web-based games.  
+This portfolio is a glimpse of what I do and what I aim to build in the future.
 
- <hr/>
+---
 
-#### I'm Seemol Chakroborti, a passionate React and Express front-end developer. With a dedicated focus on web development, I have been actively refining my skills over the past several months.My expertise lies in crafting dynamic and responsive user interfaces using React.js for front-end development.
+## 🚀 Website Sections
 
-#### I am adept at server-side development with Express.js and proficient in working with databases, particularly MongoDB.Currently, I am expanding my skill set by delving into TypeScript.
+### 1. 🌟 Hero Section
 
-<br/>
+-    A clean and attractive landing area with my name, profession, and a quick call-to-action like “View My Work”.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ABC9C&random=false&width=435&lines=%E2%9C%8D%EF%B8%8F+I%E2%80%99m+currently+learning+Next+Js;%F0%9F%92%AC+Ask+me+about+React;%F0%9F%93%A7How+to+reach+me%22wpseemol%40gmail.com%22)](https://git.io/typing-svg)
+### 2. 🧑‍💻 About Me
 
-<hr/>
+-    A detailed biography about who I am, my passion, nickname `wpseemol`, and a placeholder for a profile picture.
 
-<h3 align="center">My Skilled Language:</h3>
+### 3. 🧠 Skills
 
-</table>
-<p align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/Bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/html.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/css.svg" alt="css3" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/wpseemol/wpseemol/blob/main/icon/ExpressJS-logo.jpg?raw=true" alt="express" width="100" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/figma.svg" alt="figma" width="40" height="40"/></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/firebase.svg" alt="firebase" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/git.svg" alt="git" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/js.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/mongoDB.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/mysql.svg" alt="mysql" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/node%20js.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/react.svg" alt="react" width="40" height="40"/></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/a8b1694487fc15cd30e446b08aaed562724aeebf/icon/php-icon.svg" alt="php" width="40" height="40"/></a></p>
+-    Interactive and animated skill progress bars showing my proficiency in:
+     -    HTML: 93%
+     -    CSS: 76%
+     -    Bootstrap: 95%
+     -    Tailwind CSS: 80%
+     -    React: 75%
+     -    Next.js: 76%
+     -    Redux: 20%
+     -    WordPress: 45%
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/wpseemol" target="blank"><img align="center" src="https://raw.githubusercontent.com/wpseemol/wpseemol/0e65f752f8f9b173b4d67de290c50fca446beeb2/icon/twiter.svg" alt="wpseemol" height="30" width="40" /></a>
-<a href="https://facebook.com/wpseemol.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/wpseemol/wpseemol/0e65f752f8f9b173b4d67de290c50fca446beeb2/icon/facebook.svg" alt="wpseemol" height="30" width="40" /></a>
-<a href="https://www.instagram.com/wpseemol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/wpseemol/wpseemol/0e65f752f8f9b173b4d67de290c50fca446beeb2/icon/instagram.svg" alt="wpseemol" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19847121/wpseemol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/wpseemol/wpseemol/0e65f752f8f9b173b4d67de290c50fca446beeb2/icon/stackOverfle.svg" alt="wpseemol" height="30" width="40" /></a>
-</p>
+### 4. 🕹️ Game Zone
 
-<table width="98%" style="margin-left:auto; margin-right:auto " align="center"><tr><td valign="top" width="100%">  
-<h3 align="center"><u>Tools :</u></h3>  
-<div align="center">  
-<a href="https://github.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/git.svg" alt="Git" height="50"  /></a> 
-<a href="https://vercel.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/57259af702630da30b5a00acba5fce22cc98f547/icon/vercel.svg" alt="vercel" height="50" width="110" /></a> 
-<a href="https://netlify.app/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://github.com/wpseemol/wpseemol/blob/main/icon/netlify-logo.png?raw=true" alt="netlify" height="50" /></a> 
-<a href="https://canva.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/canva.svg" alt="Canva" height="50" /></a>   
-<a href="https://www.figma.com/" style="margin-right: 20px" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/figma.svg" alt="Figma" height="50" /></a>   
-<a href="https://www.adobe.com/products/photoshop.html" style="margin-right: 20px" target="_blank"><img src="https://raw.githubusercontent.com/wpseemol/wpseemol/002efecc881714cb04b9db7fdaa56bc265a1da71/icon/photoshop.svg" alt="Figma" height="50" /></a>   
-</div>
+-    A showcase of fun mini-games I’ve built.  
+     Each game is displayed with a thumbnail, description, and a “Play Now” button.
 
-</td></tr></table>
+### 5. 🧰 Tools
 
-<hr/>
+-    A collection of web tools I’ve built (e.g., user location finder).  
+     Each tool is shown in a grid-style card layout.
 
-<table width="100%" align="center"><tr><td valign="top" width="50%">
+### 6. 📁 Projects (Recommended)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wpseemol&theme=dark)
+-    Featured or recent web development projects with:
+     -    Title, short description, tech stack, and live/demo links.
 
-</td>
-<td valign="top" width="50%">
+### 7. 📝 Blog (Optional)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wpseemol&theme=dark)
+-    A section to publish blogs, coding tutorials, and development tips in the future.
 
-</td>
-</tr></table>
+### 8. 📫 Contact
 
-<h3 align="center">Github Stats</h3>
+-    A functional contact form (Name, Email, Message).
+-    Direct links to my GitHub, LinkedIn, Facebook, and email.
 
-<table width="100%" align="center"><tr><td valign="top" width="100%">
+### 9. ⚫ Footer
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wpseemol&theme=dark)
+-    Logo or my name, copyright.
+-    Social media icons and minimal navigation.
 
-</td>
-</tr></table>
+---
 
-## Projects
+## 🎨 Design & UX
 
-## contestHub Full Stack Website
+-    **Mobile-First** & fully **responsive**.
+-    Clean layout with accessible fonts and color contrast.
+-    Hover effects, smooth scroll behavior, and subtle transitions for better UX.
+-    Light or Dark mode (depending on what fits best visually).
+-    Focus on **clarity**, **consistency**, and **simplicity**.
 
-#### ✔ [contestHub Dashbord with Mern stack or Fascinating design ](https://superlative-boba-1e1ca5.netlify.app)
+---
 
-**contestHub Github:**
+## 📁 File Structure
+```
 
-#### front-end [https://github.com/wpseemol/ContestHub/tree/main/ContestHub](https://github.com/wpseemol/ContestHub/tree/main/ContestHub)
+/portfolio-wpseemol/
+│
+├── index.html # Main HTML structure
+├── /css/
+│ └── styles.css # Custom styles and layout
+├── /js/
+│ └── scripts.js # Interactivity and behavior
+├── /images/
+│ └── profile.jpg # Profile or game/tool images (placeholder)
+└── README.md # Project description
 
-#### back-end [https://github.com/wpseemol/ContestHub/tree/main/ContestHub-server](https://github.com/wpseemol/ContestHub/tree/main/ContestHub-server)
+````
 
-#### Admin-Email admin@wpseemol.com
+---
 
-#### Admin-Pass Seemoladmin_1234
+## ⚙️ Features
 
-## bestBrand
+- Fully hand-coded in vanilla HTML, CSS, and JS (no frameworks required).
+- Neat, semantic markup and modular file organization.
+- Easy to customize and extend in the future.
 
-#### ✔ [Awesome design with 100% responsive](https://heroverse.netlify.app/)
+---
 
-**Kitchen-House Github:**
+## 📌 How to Use
 
-#### front-end [https://github.com/wpseemol/bestBrand/tree/main/bestBrand](https://github.com/wpseemol/bestBrand/tree/main/bestBrand)
+1. Clone or download this repository.
+2. Open `index.html` in your browser to view the site.
+3. Customize content, images, and links to match your profile.
 
-#### back-end [https://github.com/wpseemol/bestBrand/tree/main/bestBrand-server](https://github.com/wpseemol/bestBrand/tree/main/bestBrand-server)
+```bash
+git clone https://github.com/your-username/portfolio-wpseemol.git
+cd portfolio-wpseemol
+````
 
-## Kitchen-House
+---
 
-#### ✔ [Kitchen-House Fascinating design wait jwt Verification](https://capable-faloodeh-7aef99.netlify.app/)
+## 📞 Contact Me
 
-**Kitchen-House Github:**
+-    📧 Email: \[[youremail@example.com](mailto:youremail@example.com)]
+-    🌐 GitHub: [https://github.com/wpseemol](https://github.com/wpseemol)
+-    🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+-    📘 Facebook: [https://facebook.com/yourpage](https://facebook.com/yourpage)
 
-#### front-end [https://github.com/wpseemol/kitchenHouse/tree/main/kitchen-house](https://github.com/wpseemol/kitchenHouse/tree/main/kitchen-house)
+---
 
-#### back-end [https://github.com/wpseemol/kitchenHouse/tree/main/kitchen-house-server](https://github.com/wpseemol/kitchenHouse/tree/main/kitchen-house-server)
+## 📝 License
+
+This project is open-source and free to use for personal or educational purposes.
+
+---
+
+> Built with ❤️ by **Seemol Chakroborti (wpseemol)** – Web Programmer passionate about making the web more interactive.
+
+```
+
+---
+
+Let me know if you’d like this converted into a `README.md` file download, or if you'd like help writing the actual HTML/CSS/JS code too.
+```
