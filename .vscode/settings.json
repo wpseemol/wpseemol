@@ -12,9 +12,7 @@
           // Apply all TSLint fixes explicitly (legacy, mostly unused now)
           "source.fixAll.tslint": "explicit",
           // Organize imports when saving the file
-          "source.organizeImports": "explicit",
-          // Apply all available fixes
-          "source.fixAll": "explicit"
+          "source.organizeImports": "explicit"
      },
 
      // Set editor font size
