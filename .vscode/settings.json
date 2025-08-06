@@ -1,4 +1,84 @@
 {
      "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
-     "cSpell.words": ["INITDB", "nextjs", "uuidv", "vercel"]
+     "cSpell.words": ["INITDB", "nextjs", "uuidv", "vercel"],
+     "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": "explicit",
+          "source.fixAll.tslint": "explicit",
+          "source.organizeImports": "explicit",
+          "source.fixAll": "explicit"
+     },
+     "editor.fontSize": 22,
+     "terminal.integrated.cursorStyle": "line",
+     "terminal.integrated.fontSize": 20,
+     "editor.wordWrap": "on",
+     "editor.overtypeCursorStyle": "line-thin",
+     "explorer.confirmDelete": false,
+     "[javascript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+     },
+
+     "editor.defaultFormatter": "esbenp.prettier-vscode",
+     "editor.formatOnSave": true,
+
+     "eslint.run": "onSave",
+     "emmet.includeLanguages": {
+          "javascript": "javascriptreact"
+     },
+     "path-autocomplete.extensionOnImport": true,
+     "path-autocomplete.excludedItems": {
+          "*/.js": {
+               "when": "**"
+          },
+          "*/.jsx": {
+               "when": "**"
+          },
+          "*/.tsx": {
+               "when": "**"
+          },
+          "*/.vue": {
+               "when": "**"
+          }
+     },
+     "javascript.validate.enable": false,
+     "typescript.validate.enable": false,
+     "prettier.tabWidth": 5,
+     "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+
+     "terminal.integrated.defaultProfile.windows": "Git Bash",
+     "[php]": {
+          "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+     },
+     "workbench.settings.applyToAllProfiles": ["php.validate.executablePath"],
+     "terminal.integrated.profiles.windows": {
+          "PowerShell": {
+               "source": "PowerShell",
+               "icon": "terminal-powershell"
+          },
+          "Command Prompt": {
+               "path": [
+                    "${env:windir}\\Sysnative\\cmd.exe",
+                    "${env:windir}\\System32\\cmd.exe"
+               ],
+               "args": [],
+               "icon": "terminal-cmd"
+          },
+          "Git Bash": {
+               "source": "Git Bash"
+          },
+          "Ubuntu (WSL)": {
+               "path": "C:\\WINDOWS\\System32\\wsl.exe",
+               "args": ["-d", "Ubuntu"]
+          }
+     },
+     "security.allowedUNCHosts": ["wsl.localhost"],
+     "css.lint.unknownAtRules": "ignore",
+     "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+     "accessibility.verbosity.terminal": false,
+     "accessibility.hideAccessibleView": true,
+     "eslint.validate": [
+          "javascript",
+          "javascriptreact",
+          "typescript",
+          "typescriptreact"
+     ]
 }

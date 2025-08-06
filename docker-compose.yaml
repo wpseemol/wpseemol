@@ -1,5 +1,6 @@
 services:
      portfolio:
+          container_name: wpseemol_portfolio
           build:
                context: ./front-end
                dockerfile: Dockerfile.dev
@@ -18,14 +19,14 @@ services:
 
      mongodb:
           image: mongo:latest
-          container_name: dev_mc_mongo_db
+          container_name: dev_wps_mongo_db
           ports:
                - "27017:27017"
           environment:
                MONGO_INITDB_ROOT_USERNAME: root
                MONGO_INITDB_ROOT_PASSWORD: 123456
           volumes:
-               - ./mangrove_mongodb_data:/data/db
+               - ./wps_mongodb_data:/data/db
           networks:
                - devNetwork
 

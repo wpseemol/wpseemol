@@ -17,14 +17,14 @@ services:
 
      mongodb:
           image: mongo:latest
-          container_name: prod_mc_mongo_db
+          container_name: prod_wps_mongo_db
           ports:
                - "27017:27017"
           environment:
                MONGO_INITDB_ROOT_USERNAME: root
                MONGO_INITDB_ROOT_PASSWORD: 123456
           volumes:
-               - ./mangrove_mongodb_data:/data/db
+               - ./wps_mongodb_data:/data/db
           networks:
                - prodNetwork
           restart: always
