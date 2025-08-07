@@ -1,35 +1,35 @@
 services:
-     portfolio:
-          container_name: wpseemol_portfolio
-          build:
-               context: ./front-end
-               dockerfile: Dockerfile.dev
-          ports:
-               - "3000:3000"
-          volumes:
-               - ./front-end:/app
-               - /app/node_modules
-          env_file:
-               - .env
-          depends_on:
-               - mongodb
-          networks:
-               - devNetwork
-          command: ["pnpm", "dev"]
+  portfolio:
+    container_name: wpseemol_portfolio
+    build:
+      context: ./front-end
+      dockerfile: Dockerfile.dev
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./front-end:/app
+      - /app/node_modules
+    env_file:
+      - .env
+    depends_on:
+      - mongodb
+    networks:
+      - devNetwork
+    command: ["pnpm", "dev"]
 
-     mongodb:
-          image: mongo:latest
-          container_name: dev_wps_mongo_db
-          ports:
-               - "27017:27017"
-          environment:
-               MONGO_INITDB_ROOT_USERNAME: root
-               MONGO_INITDB_ROOT_PASSWORD: 123456
-          volumes:
-               - ./wps_mongodb_data:/data/db
-          networks:
-               - devNetwork
+  mongodb:
+    image: mongo:latest
+    container_name: dev_wps_mongo_db
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: 123456
+    volumes:
+      - ./wps_mongodb_data:/data/db
+    networks:
+      - devNetwork
 
 networks:
-     devNetwork:
-          driver: bridge
+  devNetwork:
+    driver: bridge
