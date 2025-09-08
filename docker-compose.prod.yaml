@@ -1,34 +1,34 @@
 services:
-     portfolio:
-          container_name: portfolio_app
-          build:
-               context: ./front-end
-               dockerfile: Dockerfile.prod
-          ports:
-               - "3000:3000"
-          env_file:
-               - .env
-          depends_on:
-               - mongodb
-          networks:
-               - prodNetwork
-          restart: always
-          command: ["pnpm", "start"]
+  portfolio:
+    container_name: portfolio_app
+    build:
+      context: ./front-end
+      dockerfile: Dockerfile.prod
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.prod
+    depends_on:
+      - mongodb
+    networks:
+      - prodNetwork
+    restart: always
+    command: ["pnpm", "start"]
 
-     mongodb:
-          image: mongo:latest
-          container_name: prod_wps_mongo_db
-          ports:
-               - "27017:27017"
-          environment:
-               MONGO_INITDB_ROOT_USERNAME: root
-               MONGO_INITDB_ROOT_PASSWORD: 123456
-          volumes:
-               - ./wps_mongodb_data:/data/db
-          networks:
-               - prodNetwork
-          restart: always
+  mongodb:
+    image: mongo:latest
+    container_name: prod_wps_mongo_db
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: 123456
+    volumes:
+      - ./wps_mongodb_data:/data/db
+    networks:
+      - prodNetwork
+    restart: always
 
 networks:
-     prodNetwork:
-          driver: bridge
+  prodNetwork:
+    driver: bridge
